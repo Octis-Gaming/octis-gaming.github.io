@@ -4,5 +4,5 @@ Octis was designed by two passionate and dedicated boys from Northern Ireland wh
 
 A company dedicated to bringing games into the future and the past.
 
-<img width="658" height="525" alt="Screenshot 2026-05-23 092051" src="https://github.com/user-attachments/assets/af27d656-fd5c-4a70-8f0d-9c356db792e1" />
+<img width="656" height="525" alt="Screenshot 2026-05-23 092535" src="https://github.com/user-attachments/assets/db9b2799-3c9e-4d13-a1a6-bc3ec139466d" />
 
